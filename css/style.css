@@ -1,0 +1,78 @@
+img{
+    width: 550px
+}
+
+.customside{
+   background-image: url("../images/back2.jpg");
+   background-size: 1500px;
+   background-position: right;
+   background-repeat: no-repeat;
+}
+
+.customlist{
+    display: block
+}
+
+/*.customleft{
+    background-image: url("../images/back3.jpg");
+    background-position: right
+}*/
+
+.customcontainer{
+    background-image: url("../images/back2.jpg");
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.widthheight{
+        width: 163px;
+    height: 152px;
+}
+.alertbackground{
+    background-color: #343a40!important
+}
+.headingcolor{
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    }
+    .custombackground{
+   background-color: white !important;
+    
+        }
+        .custombackground1{
+   background-color: #eee !important;
+   color: black
+        }
+        .custombackground2{
+   background-color: white !important;
+
+        }
+
+
+        .graypara{
+                color: #93a4aa;
+        }
+     .projectwidth{
+        text-align: center;
+     }
+
+     .customfont{
+         font-size: 25px;
+     }
+
+
+     .customwidth{
+         width: 136px
+     }
+
+     .customposition{
+         position: relative;
+         right: 70px;
+     }
+
+     .linkhover:hover{
+         position: relative;
+         bottom: 5px;
+     }
